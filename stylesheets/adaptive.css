@@ -182,10 +182,11 @@ a {
 .info {
     width: 96vw;
 }
-/* .info-1 {
-    width: 96vw;
+.info-1 {
     
-} */
+gap: 2vw;
+}
+    
 .button1  {
     display: none;
 }
