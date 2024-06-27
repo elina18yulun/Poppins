@@ -1,7 +1,3 @@
-* {
-    box-sizing: border-box;
-}
-
 
 @font-face {
     font-family: 'Geometria';
@@ -1245,11 +1241,6 @@ button {
 }
 #main8:hover{
     animation-play-state: paused;
-}
-
-
-  .html {
-    cursor: url("img/cursor.svg"), auto !important;
 }
 
 .futer img{
