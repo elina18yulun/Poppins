@@ -1,6 +1,4 @@
-html, body {
-     height: auto;
-}
+
 @font-face {
     font-family: 'Geometria';
     src: url('../fonts/Geometria-Regular.ttf')format('truetype');
