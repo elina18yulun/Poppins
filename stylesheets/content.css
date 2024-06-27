@@ -753,7 +753,7 @@ button {
     margin-top: 6vw;
     margin-left: 2vw;
     display: flex;
-    gap: 3vw;
+    gap: 1vw;
 }
 
 .imgleft001 img {
@@ -842,7 +842,7 @@ button {
     margin-left: 2vw;
     margin-top: 4vw;
     display: flex;
-    gap: 3vw;
+    gap: 1vw;
 
 }
 .block005{
